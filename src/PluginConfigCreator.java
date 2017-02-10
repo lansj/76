@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 
  * @author gengsj@liepin.com
- *234
+ *2344
  */
 public class PluginConfigCreator {
      

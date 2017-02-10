@@ -2,6 +2,11 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
  
+/**
+ * 
+ * @author gengsj@liepin.com
+ *
+ */
 public class PluginConfigCreator {
      
     public PluginConfigCreator() {
